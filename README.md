@@ -4,6 +4,7 @@
 - Version 1: [Survival Race](https://sprunki-incredibox.org/game/other-survival-race)
 - Version 2: [Survival Race](https://sprunki.la/game/other-survival-race)
 - Version 3: [Survival Race](https://scrunkly.org/game/other-survival-race)
+- News: [Survival Race]](https://sites.google.com/view/sprunki-org/survival-race)
 
 
 ## Introduction
