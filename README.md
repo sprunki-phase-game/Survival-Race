@@ -4,8 +4,6 @@
 - Version 1: [Survival Race](https://sprunki-incredibox.org/game/other-survival-race)
 - Version 2: [Survival Race](https://sprunki.la/game/other-survival-race)
 - Version 3: [Survival Race](https://scrunkly.org/game/other-survival-race)
-- News: [Survival Race]](https://sites.google.com/view/sprunki-org/survival-race)
-
 
 ## Introduction
 Welcome to the adrenaline-pumping world of **Survival Race**, where the stakes are high, and the competition is fierce. Unlike traditional racing games that focus solely on speed, **Survival Race** introduces a thrilling twist: the track itself is your enemy. This game combines high-speed driving with survival tactics, challenging you to navigate through collapsing arenas while outlasting your opponents. In **Survival Race**, quick reflexes, strategic maneuvers, and a bit of aggression are your keys to victory. Are you ready to take on the challenge and prove your mettle in the ultimate **Survival Race**? Strap in, and get ready for a heart-pounding experience where only the strongest survive.
